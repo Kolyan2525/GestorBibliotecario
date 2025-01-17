@@ -77,5 +77,4 @@ Autores:
  - Nikolay Avvakumov | ID: 1128126
 
 Correos electronicos:
-ianenriqueluciano10@gmail.com
-nikolayavv1894@gmail.com
+ianenriqueluciano10@gmail.com | nikolayavv1894@gmail.com
