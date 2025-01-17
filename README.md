@@ -1,7 +1,6 @@
 # GestorBibliotecario
 Proyecto final: Para las asignaturas IDS340 e IDS340L
 
-Descripción
 El proyecto consiste en desarrollar un sistema de gestión de reservas para una biblioteca utilizando el lenguaje de programación C#. Este sistema integra conocimientos adquiridos en los cursos IDS340 e IDS340L. Además, el curso proporcionado durante la clase, Capacítate para Empleo. El proyecto desarrolla habilidades diferentes, como, por ejemplo, estructuras de control, clases y objetos, manipulación de bases de datos y desarrollo de interfaces gráficas.
 
 Objetivos del proyecto:
