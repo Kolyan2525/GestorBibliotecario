@@ -72,6 +72,7 @@ Entrega:
 - Subir el proyecto completo a GitHub.
 
 Subir también el proyecto en formato ZIP al aula virtual.
+
 2. Documentación técnica
 - Opcional: Incluir un diagrama de clases.
 - Documentar cada módulo con comentarios claros y precisos.
